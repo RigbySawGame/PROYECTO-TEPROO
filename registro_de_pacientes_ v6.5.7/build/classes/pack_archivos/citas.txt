@@ -1,0 +1,4 @@
+789;nicol;samanamud;Femenino;456;jhonny;arce;Nefrologia;sjl;98523647;852;12/12/2019;15/12/2019
+789;nicol;samanamud;Femenino;456;jhonny;arce;Nefrologia;sjl;98523647;9666;12/12/2019;15/12/2019
+789;nicol;samanamud;Femenino;456;sandro;vilela;Nefrologia;jhonny1932001;98523647;ijtdre;14/12/2019;15/12/2019
+789;nicol;samanamud;Femenino;456;sandro;vilela;Nefrologia;sjl;98523647;852;14/12/2019;20/12/2019
